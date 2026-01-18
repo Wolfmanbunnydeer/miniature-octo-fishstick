@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <base href="https://movieslore.com">
+  <meta charset="UTF-8">
+  <meta name="revisit-after" content="1 days">
+  <meta name="author" content="123Movies" />
+  <meta http-equiv="content-language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="https://movieslore.com/themes/old123/assets/img/favicon.png" type="image/x-icon">
+  <meta name="robots" content="index,follow">
+  <title>Watch Zootopia 2 123Movies</title>
+  <meta name="description" content="After cracking the biggest case in Zootopia&#039;s history, rookie cops Judy Hopps and Nick Wilde find their partnership isn&#039;t as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn&#039;t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis." />
+  <meta name="robots" content="max-image-preview:large" />
+  <link rel="canonical" href="https://movieslore.com/movie/zootopia-2-AOis-k-f327f09c4d/" />
+  <meta name="generator" content="SEO SW" />
+  <meta property="og:locale" content="en-US" />
+  <meta property="og:site_name" content="123Movies" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Watch Zootopia 2 123Movies" />
+  <meta property="og:description" content="After cracking the biggest case in Zootopia&#039;s history, rookie cops Judy Hopps and Nick Wilde find their partnership isn&#039;t as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn&#039;t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis." />
+  <meta property="og:url" content="https://movieslore.com/movie/zootopia-2-AOis-k-f327f09c4d/" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Watch Zootopia 2 123Movies" />
+  <meta name="twitter:description" content="After cracking the biggest case in Zootopia&#039;s history, rookie cops Judy Hopps and Nick Wilde find their partnership isn&#039;t as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn&#039;t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis." />
+  <link rel="stylesheet" href="https://movieslore.com/themes/old123/assets/css/all.css" type="text/css" />
+  <link rel="stylesheet" href="https://movieslore.com/themes/old123/assets/css/blue.css" type="text/css" />
+  <script>
+    var baseurl = 'https://movieslore.com',
+      NOPOSTER = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMjAwIDMwMCI+PGxpbmVhckdyYWRpZW50IGlkPSJnciIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxMTEiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzMzMiLz48L2xpbmVhckdyYWRpZW50PjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2dyKSIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjRkRDODAwIiBmb250LXNpemU9IjI2IiBmb250LXdlaWdodD0iYm9sZCIgc3R5bGU9InRleHQtYW5jaG9yOm1pZGRsZTt0ZXh0LXNoYWRvdzogMCAwIDQgI2ZmZjsgZG9taW5hbnQtYmFzZWxpbmU6bWlkZGxlOyI+Tk8gUE9TVEVSPC90ZXh0Pjwvc3ZnPg==';
+  </script>
+</head>
+
+<body>
+  <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+    <symbol id="fa-play" viewBox="0 0 448 512">
+      <path d="M424.4 214.7L72.4 3.7A48 48 0 0 0 0 45.4v421.2a48 48 0 0 0 72.4 41.7l352-211a48 48 0 0 0 0-82.6z" />
+    </symbol>
+    <symbol id="fa-download" viewBox="0 0 512 512">
+      <path d="M480 352v96a32 32 0 0 1-32 32H64a32 32 0 0 1-32-32v-96a16 16 0 0 1 16-16h64a16 16 0 0 1 16 16v48h256v-48a16 16 0 0 1 16-16h64a16 16 0 0 1 16 16zM372.7 217.4L281 309.1a24 24 0 0 1-34 0l-91.7-91.7a24 24 0 0 1 17-41H224V64a32 32 0 0 1 64 0v112h51.4a24 24 0 0 1 17.3 41.4z" />
+    </symbol>
+    <symbol id="fa-angle-down" viewBox="0 0 320 512">
+      <path d="M143 352L7 216a24 24 0 0 1 34-34l119 119 119-119a24 24 0 0 1 34 34L177 352a24 24 0 0 1-34 0z" />
+    </symbol>
+    <symbol id="fa-chevron-right" viewBox="0 0 256 512">
+      <path d="M64 448a24 24 0 0 1-17-41L199 255 47 105a24 24 0 0 1 34-34l168 168a24 24 0 0 1 0 34L81 448a24 24 0 0 1-17 0z" />
+    </symbol>
+    <symbol id="fa-reorder" viewBox="0 0 448 512">
+      <path d="M16 132h416a16 16 0 0 0 0-32H16a16 16 0 0 0 0 32zm416 96H16a16 16 0 0 0 0 32h416a16 16 0 0 0 0-32zM16 388h416a16 16 0 0 0 0-32H16a16 16 0 0 0 0 32z" />
+    </symbol>
+    <symbol id="fa-search" viewBox="0 0 512 512">
+      <path d="M500.3 443.3 384 327.1C413.3 293.4 432 249.6 432 202.7 432 90.7 341.3 0 229.3 0S26.7 90.7 26.7 202.7 117.3 405.3 229.3 405.3c46.9 0 90.7-18.7 124.4-48l116.2 116.3c9.4 9.4 24.6 9.4 33.9 0l-3.5-3.5c9.4-9.4 9.4-24.6 0-34zM229.3 341.3c-76.5 0-138.7-62.2-138.7-138.7S152.8 64 229.3 64s138.7 62.2 138.7 138.7-62.2 138.6-138.7 138.6z" />
+    </symbol>
+  </svg>
+  <header>
+    <div class="container">
+      <div class="header-logo"> <a href="https://movieslore.com/" id="logo" aria-label="123Movies"></a> </div>
+      <div class="mobile-menu"><svg class="icon-mobile">
+          <use href="#fa-reorder"></use>
+        </svg></div>
+      <div class="mobile-search"><svg class="icon-mobile" aria-hidden="true">
+          <use href="#fa-search"></use>
+        </svg></div>
+      <div id="menu">
+        <ul class="top-menu">
+          <li> <a href="/home/" title="HOME">HOME</a> </li>
+          <li> <a href="https://movieslore.com/tvshows/" title="TV SHOWS">TV SHOWS</a> </li>
+          <li class="active"> <a href="https://movieslore.com/movies/" title="MOVIES">MOVIES</a> </li>
+          <li> <a href="#" class="no-link" aria-disabled="true" onclick="return false;">GENRES</a>
+            <div class="sub-container" style="display: none">
+              <ul class="sub-menu">
+                <li> <a href="https://movieslore.com/genre/action-adventure/">Action & Adventure</a> </li>
+                <li> <a href="https://movieslore.com/genre/action/">Action</a> </li>
+                <li> <a href="https://movieslore.com/genre/adventure/">Adventure</a> </li>
+                <li> <a href="https://movieslore.com/genre/animation/">Animation</a> </li>
+                <li> <a href="https://movieslore.com/genre/comedy/">Comedy</a> </li>
+                <li> <a href="https://movieslore.com/genre/crime/">Crime</a> </li>
+                <li> <a href="https://movieslore.com/genre/documentary/">Documentary</a> </li>
+                <li> <a href="https://movieslore.com/genre/drama/">Drama</a> </li>
+                <li> <a href="https://movieslore.com/genre/family/">Family</a> </li>
+                <li> <a href="https://movieslore.com/genre/fantasy/">Fantasy</a> </li>
+                <li> <a href="https://movieslore.com/genre/history/">History</a> </li>
+                <li> <a href="https://movieslore.com/genre/horror/">Horror</a> </li>
+                <li> <a href="https://movieslore.com/genre/kids/">Kids</a> </li>
+                <li> <a href="https://movieslore.com/genre/music/">Music</a> </li>
+                <li> <a href="https://movieslore.com/genre/mystery/">Mystery</a> </li>
+                <li> <a href="https://movieslore.com/genre/reality/">Reality</a> </li>
+                <li> <a href="https://movieslore.com/genre/romance/">Romance</a> </li>
+                <li> <a href="https://movieslore.com/genre/sci-fi-fantasy/">Sci-Fi & Fantasy</a> </li>
+                <li> <a href="https://movieslore.com/genre/science-fiction/">Science Fiction</a> </li>
+                <li> <a href="https://movieslore.com/genre/soap/">Soap</a> </li>
+                <li> <a href="https://movieslore.com/genre/thriller/">Thriller</a> </li>
+                <li> <a href="https://movieslore.com/genre/tv-movie/">TV Movie</a> </li>
+                <li> <a href="https://movieslore.com/genre/war-politics/">War & Politics</a> </li>
+                <li> <a href="https://movieslore.com/genre/war/">War</a> </li>
+                <li> <a href="https://movieslore.com/genre/western/">Western</a> </li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+          </li>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div id="top-user"></div>
+      <div id="search">
+        <div class="search-content"> <input maxlength="100" autocomplete="off" name="keyword" type="text" class="form-control search-input" placeholder="Searching..." />
+          <div id="token-search"></div> <button type="button" onclick="searchMovie()" class="search-submit" aria-label="Search"> <svg class="icon" aria-hidden="true">
+              <use href="#fa-search"></use>
+            </svg> </button>
+          <div class="search-suggest" id="search-suggest-menu" style="display: none;"></div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </header>
+  <div class="header-pad"></div>
+  <div id="main">
+    <div class="container">
+      <div class="pad"></div>
+      <div class="main-content main-detail">
+        <div id="bread">
+          <ol class="breadcrumb">
+            <li><a href="/home/">HOME</a></li>
+            <li> <a href="https://movieslore.com/movies/">MOVIES</a> </li>
+            <li class="active">Zootopia 2</li>
+          </ol>
+        </div>
+        <div style="width:100%;border:none;">
+          <div style="text-align:center;margin-top:7px;margin-bottom: 7px;"> </div>
+        </div>
+        <div id="mv-info">
+          <div id="content-embed" style="display: none;"></div> <a id="cover" href="javascript:void(0)" onclick="getlink('RUUvYisrTXJzZVBzbjJaTWNwZ0c5UT09', 'movie');" rel="nofollow" title="Zootopia 2" class="thumb mvi-cover" style="background-image: url(https://images.weserv.nl/?url=image.tmdb.org/t/p/w1280/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg&output=webp)"></a>
+          <div id="list-eps" style="display: none;">
+            <div class="le-server server-item vip">
+              <div class="les-title"> <i class="fa fa-server mr5"></i> <strong>Server HD</strong> </div>
+              <div class="les-content"> <a href="javascript:void(0)" onclick="getlink('RUUvYisrTXJzZVBzbjJaTWNwZ0c5UT09', 'movie');" id="ep-sw" class="btn-eps ep-item">Play</a> </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+          <div class="mobile-btn">
+            <div class="clearfix"></div>
+          </div>
+          <div style="width:100%;border:none;">
+            <div style="text-align:center;margin-top:7px;margin-bottom: 7px;"> </div>
+          </div>
+          <div class="mvi-content">
+            <div class="mvic-btn"> </div>
+            <div class="thumb mvic-thumb" style="background-image: url(https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg&output=webp);"></div>
+            <div class="mvic-desc">
+              <h3>Zootopia 2</h3>
+              <div class="desc">"Zootopia will be changed furrrever..."</div>
+              <p><strong> After cracking the biggest case in Zootopia&#039;s history, rookie cops Judy Hopps and Nick Wilde find their partnership isn&#039;t as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn&#039;t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis. </strong></p>
+              <div class="mvic-info">
+                <div class="mvici-left">
+                  <p><strong>Genre:</strong> <a href="https://movieslore.com/genre/adventure/" title="Adventure">Adventure</a>, <a href="https://movieslore.com/genre/animation/" title="Animation">Animation</a>, <a href="https://movieslore.com/genre/comedy/" title="Comedy">Comedy</a>, <a href="https://movieslore.com/genre/family/" title="Family">Family</a>, <a href="https://movieslore.com/genre/mystery/" title="Mystery">Mystery</a></p>
+                  <p><strong>Actor:</strong> <a href="https://movieslore.com/cast/ginnifer-goodwin/" title="Ginnifer Goodwin">Ginnifer Goodwin</a>, <a href="https://movieslore.com/cast/jason-bateman/" title="Jason Bateman">Jason Bateman</a>, <a href="https://movieslore.com/cast/ke-huy-quan/" title="Ke Huy Quan">Ke Huy Quan</a>, <a href="https://movieslore.com/cast/fortune-feimster/" title="Fortune Feimster">Fortune Feimster</a>, <a href="https://movieslore.com/cast/andy-samberg/" title="Andy Samberg">Andy Samberg</a>, <a href="https://movieslore.com/cast/david-strathairn/" title="David Strathairn">David Strathairn</a>, <a href="https://movieslore.com/cast/idris-elba/" title="Idris Elba">Idris Elba</a>, <a href="https://movieslore.com/cast/shakira/" title="Shakira">Shakira</a>, <a href="https://movieslore.com/cast/patrick-warburton/" title="Patrick Warburton">Patrick Warburton</a></p>
+                  <p><strong>Director:</strong> <a href="https://movieslore.com/director/jared-bush/" title="Jared Bush">Jared Bush</a>, <a href="https://movieslore.com/director/byron-howard/" title="Byron Howard">Byron Howard</a></p>
+                  <p><strong>Country:</strong> <a href="https://movieslore.com/country/united+states+of+america/" title="United States of America">United States of America</a></p>
+                </div>
+                <div class="mvici-right">
+                  <p><strong>Type:</strong> <span class="quality">movie</span></p>
+                  <p><strong>Duration:</strong> 1h 47m</p>
+                  <p><strong>Quality:</strong> <span class="quality">HD</span></p>
+                  <p><strong>Release:</strong> 2025</p>
+                  <p><strong>Rating:</strong> 7.5</p>
+                </div>
+                <div class="clearfix"></div>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+        <div class="pad"></div>
+        <div class="movies-list-wrap mlw-related">
+          <div class="ml-title ml-title-page"> <span>YOU MAY ALSO LIKE</span> </div>
+          <div class="movies-list movies-list-full">
+            <div data-movie-id="982" class="ml-item"> <a href="https://movieslore.com/movie/toy-story-4-4dd17941ad/" data-url="https://movieslore.com/ajax/get-data/982" class="ml-mask jt" data-hasqtip="11" oldtitle="Toy Story 4" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg&output=webp" class="lazy thumb mli-thumb" alt="Toy Story 4"> <span class="mli-info">
+                  <h2>Toy Story 4</h2>
+                </span> </a> </div>
+            <div data-movie-id="1129" class="ml-item"> <a href="https://movieslore.com/movie/the-secret-life-of-pets-2-767166b0f4/" data-url="https://movieslore.com/ajax/get-data/1129" class="ml-mask jt" data-hasqtip="11" oldtitle="The Secret Life of Pets 2" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/s9xg4V5EDKiphgIksVJ9gewBM11.jpg&output=webp" class="lazy thumb mli-thumb" alt="The Secret Life of Pets 2"> <span class="mli-info">
+                  <h2>The Secret Life of Pets 2</h2>
+                </span> </a> </div>
+            <div data-movie-id="1775" class="ml-item"> <a href="https://movieslore.com/movie/santa-s-little-helpers-067d17263f/" data-url="https://movieslore.com/ajax/get-data/1775" class="ml-mask jt" data-hasqtip="11" oldtitle="Santa's Little Helpers" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/1RwIbBIU4r6By0Ra37W3huNpNrO.jpg&output=webp" class="lazy thumb mli-thumb" alt="Santa's Little Helpers"> <span class="mli-info">
+                  <h2>Santa's Little Helpers</h2>
+                </span> </a> </div>
+            <div data-movie-id="1811" class="ml-item"> <a href="https://movieslore.com/movie/missing-link-018d48f919/" data-url="https://movieslore.com/ajax/get-data/1811" class="ml-mask jt" data-hasqtip="11" oldtitle="Missing Link" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/bqQ38oKuROlAgyZcRII9tqtoPNi.jpg&output=webp" class="lazy thumb mli-thumb" alt="Missing Link"> <span class="mli-info">
+                  <h2>Missing Link</h2>
+                </span> </a> </div>
+            <div data-movie-id="1809" class="ml-item"> <a href="https://movieslore.com/movie/ast-rix-le-secret-de-la-potion-magique-b0cb2aa430/" data-url="https://movieslore.com/ajax/get-data/1809" class="ml-mask jt" data-hasqtip="11" oldtitle="Asterix: The Secret of the Magic Potion" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/5OvHpzWXBzOvgZwOoUsqNSouSwy.jpg&output=webp" class="lazy thumb mli-thumb" alt="Asterix: The Secret of the Magic Potion"> <span class="mli-info">
+                  <h2>Asterix: The Secret of the Magic Potion</h2>
+                </span> </a> </div>
+            <div data-movie-id="1825" class="ml-item"> <a href="https://movieslore.com/movie/penguin-highway-f70fa4cbee/" data-url="https://movieslore.com/ajax/get-data/1825" class="ml-mask jt" data-hasqtip="11" oldtitle="Penguin Highway" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/wMJJk4kkXfqwP5W7wYHWvDXhTlw.jpg&output=webp" class="lazy thumb mli-thumb" alt="Penguin Highway"> <span class="mli-info">
+                  <h2>Penguin Highway</h2>
+                </span> </a> </div>
+            <div data-movie-id="1416" class="ml-item"> <a href="https://movieslore.com/movie/adventures-of-aladdin-e254af1799/" data-url="https://movieslore.com/ajax/get-data/1416" class="ml-mask jt" data-hasqtip="11" oldtitle="Aladdin" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg&output=webp" class="lazy thumb mli-thumb" alt="Aladdin"> <span class="mli-info">
+                  <h2>Aladdin</h2>
+                </span> </a> </div>
+            <div data-movie-id="994" class="ml-item"> <a href="https://movieslore.com/movie/ternet-ninja-8135a67190/" data-url="https://movieslore.com/ajax/get-data/994" class="ml-mask jt" data-hasqtip="11" oldtitle="Checkered Ninja" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg&output=webp" class="lazy thumb mli-thumb" alt="Checkered Ninja"> <span class="mli-info">
+                  <h2>Checkered Ninja</h2>
+                </span> </a> </div>
+            <div data-movie-id="1426" class="ml-item"> <a href="https://movieslore.com/movie/allahyar-and-the-legend-of-markhor-29a10d98eb/" data-url="https://movieslore.com/ajax/get-data/1426" class="ml-mask jt" data-hasqtip="11" oldtitle="Allahyar and the Legend of Markhor" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/mp1ywf4y6QXntxoDkeW9T8HpNbT.jpg&output=webp" class="lazy thumb mli-thumb" alt="Allahyar and the Legend of Markhor"> <span class="mli-info">
+                  <h2>Allahyar and the Legend of Markhor</h2>
+                </span> </a> </div>
+            <div data-movie-id="1905" class="ml-item"> <a href="https://movieslore.com/movie/gekijo-ban-non-non-biyori-vacation-ea6fab58ce/" data-url="https://movieslore.com/ajax/get-data/1905" class="ml-mask jt" data-hasqtip="11" oldtitle="Non Non Biyori: Vacation" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/bzcITTrfYUXbd2RiHWkXyZruawo.jpg&output=webp" class="lazy thumb mli-thumb" alt="Non Non Biyori: Vacation"> <span class="mli-info">
+                  <h2>Non Non Biyori: Vacation</h2>
+                </span> </a> </div>
+            <div data-movie-id="1038" class="ml-item"> <a href="https://movieslore.com/movie/men-in-black-international-0e5a7a741a/" data-url="https://movieslore.com/ajax/get-data/1038" class="ml-mask jt" data-hasqtip="11" oldtitle="Men in Black: International" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg&output=webp" class="lazy thumb mli-thumb" alt="Men in Black: International"> <span class="mli-info">
+                  <h2>Men in Black: International</h2>
+                </span> </a> </div>
+            <div data-movie-id="1188" class="ml-item"> <a href="https://movieslore.com/movie/rim-of-the-world-5a9bd00310/" data-url="https://movieslore.com/ajax/get-data/1188" class="ml-mask jt" data-hasqtip="11" oldtitle="Rim of the World" title="" aria-describedby="qtip-11"> <span class="mli-quality">HD</span> <img data-src="https://images.weserv.nl/?url=image.tmdb.org/t/p/w300/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg&output=webp" class="lazy thumb mli-thumb" alt="Rim of the World"> <span class="mli-info">
+                  <h2>Rim of the World</h2>
+                </span> </a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 footer-copyright">
+            <p><a href="https://movieslore.com" class="mv-ft-logo" aria-label="Go to 123Movies homepage"></a></p>
+            <p style="font-size: 11px; line-height: 14px; color: rgba(255,255,255,0.4)">Disclaimer: This site does not store any files on its server. All contents are provided by non-affiliated third parties.</p>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="footer-tags"> <a title="123Movies" href="/ ">123Movies</a> <a title="123Movies Free" href="/ ">123Movies Free</a> <a title="Free movies" href="/ ">123 movies</a> <a title="123 movies" href="/ ">Free movies online</a> <a title="Cinema movies" href="/ ">123movie</a> <a title="123movie" href="/ ">Watch series free</a> <a title="Series free online" href="/">Series free online</a> </div>
+      </div>
+    </div>
+    </div>
+  </footer>
+  <script type="text/javascript" src="https://movieslore.com/themes/old123/assets/js/all.js"></script>
+  <script data-cfasync="false" async type="text/javascript" src="//wf.pastedict.com/rl7jMT5b8EV/76372"></script>
+  <script data-cfasync="false" async type="text/javascript" src="//wh.slawhomager.com/s5hnIk1gAPRCJBW/130535"></script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c5fa3a9c2e3c4402b908d7137fc5db42","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
